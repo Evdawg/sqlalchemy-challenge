@@ -17,4 +17,5 @@ Sources:
 	https://stackoverflow.com/questions/26528300/get-first-and-last-element-with-sqlalchemy
 
 
-[4] 
+[4] SQL query result to Pandas DF:
+	https://stackoverflow.com/questions/12047193/how-to-convert-sql-query-result-to-pandas-data-structure

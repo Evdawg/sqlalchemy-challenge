@@ -19,3 +19,7 @@ Sources:
 
 [4] SQL query result to Pandas DF:
 	https://stackoverflow.com/questions/12047193/how-to-convert-sql-query-result-to-pandas-data-structure
+
+
+[5] Get delta of date in string format:
+	https://stackoverflow.com/questions/55183235/get-the-one-year-before-date-for-a-given-date-in-python

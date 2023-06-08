@@ -23,3 +23,9 @@ Sources:
 
 [5] Get delta of date in string format:
 	https://stackoverflow.com/questions/55183235/get-the-one-year-before-date-for-a-given-date-in-python
+
+[6] Get dictionary for variable input of values for GET requests:
+	edX Boot Camps LLC. Module 10, Day 3 Activity 10: app_solution.py
+
+[7] Filter list of dictionaries using list comprehension:
+	https://stackoverflow.com/questions/32474022/filter-list-of-dictionaries

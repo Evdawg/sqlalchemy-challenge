@@ -1,7 +1,7 @@
 # sqlalchemy-challenge
 Module 10 Challenge
 
-Graded __/100
+Graded 100/100
 
 
 Sources:
